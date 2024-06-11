@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfoliyo_update/static/css/main.bf538fe7.css",
+    "main.js": "/portfoliyo_update/static/js/main.9f106519.js",
+    "static/media/hero.jpg": "/portfoliyo_update/static/media/hero.0903be9e3dea9ffe4281.jpg",
+    "index.html": "/portfoliyo_update/index.html",
+    "main.bf538fe7.css.map": "/portfoliyo_update/static/css/main.bf538fe7.css.map",
+    "main.9f106519.js.map": "/portfoliyo_update/static/js/main.9f106519.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.9f106519.js"
+  ]
+}
